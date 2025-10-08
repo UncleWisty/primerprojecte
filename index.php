@@ -14,12 +14,12 @@
       </div>
       <div class="servicio">
         <img src="src/img/servicio2.jpg" alt="Cocinas y baños">
-        <h3>Cocinas y Baños</h3>
+        <h3>Cocinas, Baños, Almacenes, Salones, Etc</h3>
         <p>Diseños modernos, funcionales y adaptados a tus necesidades.</p>
       </div>
       <div class="servicio">
-        <img src="src/img/servicio3.jpg" alt="Pintura y decoración">
-        <h3>Pintura y Decoración</h3>
+        <img src="src/img/servicio3.jpg" alt="Pintura">
+        <h3>Pintura</h3>
         <p>Dale un nuevo aire a tu hogar con nuestros servicios de pintura, revestimientos y diseño interior.</p>
       </div>
     </div>
@@ -27,7 +27,7 @@
 
   <section id="nosotros">
     <h2>Sobre ReformaPlus</h2>
-    <p>Con más de 15 años de experiencia en el sector, en <strong>ReformaPlus</strong> ofrecemos soluciones completas para todo tipo de reformas en Madrid. Nuestro compromiso es la calidad, el cumplimiento de plazos y la satisfacción total de nuestros clientes.</p>
+    <p>Con más de 30 años de experiencia en el sector, en <strong>ReformaPlus</strong> ofrecemos soluciones completas para todo tipo de reformas en Madrid. Nuestro compromiso es la calidad, el cumplimiento de plazos y la satisfacción total de nuestros clientes.</p>
   </section>
 
   <section id="contacto">
